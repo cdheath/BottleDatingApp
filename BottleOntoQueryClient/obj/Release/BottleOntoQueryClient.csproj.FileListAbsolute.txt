@@ -1,0 +1,14 @@
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\ApplicationIcon.png
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\Background.png
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\BottleOntoQueryClient.dll
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\BottleOntoQueryClient.pdb
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\AppManifest.xaml
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\Bin\Release\BottleOntoQueryClient.xap
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\App.g.i.cs
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\DecorPage.g.i.cs
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\MainPage.g.i.cs
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\QueryResults.g.i.cs
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\BottleOntoQueryClient.g.resources
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\BottleOntoQueryClient.dll
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\BottleOntoQueryClient.pdb
+C:\Users\Corey\documents\visual studio 2010\Projects\BottleOntoQueryClient\BottleOntoQueryClient\obj\Release\XapCacheFile.xml
